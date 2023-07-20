@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "title": "Classic Pepperoni",
+      "image": "https://loremflickr.com/650/650/pizza",
+      "description": "A timeless favorite topped with pepperoni slices and gooey mozzarella cheese.",
+      "price": 12.99,
+      "ingredients": ["Pepperoni", "Mozzarella", "Tomato sauce", "Pizza dough"]
+    },
+    {
+      "title": "Margherita Delight",
+      "image": "https://loremflickr.com/650/650/pizza",
+      "description": "A simple yet delightful combination of tomatoes, fresh basil, and creamy mozzarella.",
+      "price": 10.99,
+      "ingredients": ["Tomatoes", "Mozzarella", "Fresh Basil", "Olive oil", "Pizza dough"]
+    },
+    {
+      "title": "Hawaiian Paradise",
+      "image": "https://loremflickr.com/650/650/pizza",
+      "description": "Escape to a tropical paradise with this pizza featuring ham, pineapple, and cheese.",
+      "price": 13.49,
+      "ingredients": ["Ham", "Pineapple", "Mozzarella", "Tomato sauce", "Pizza dough"]
+    },
+    {
+      "title": "Supreme Feast",
+      "image": "https://loremflickr.com/650/650/pizza",
+      "description": "A pizza loaded with a feast of toppings, including pepperoni, sausage, bell peppers, onions, and olives.",
+      "price": 15.99,
+      "ingredients": ["Pepperoni", "Sausage", "Bell Peppers", "Onions", "Olives", "Mozzarella", "Tomato sauce", "Pizza dough"]
+    },
+    {
+      "title": "BBQ Chicken",
+      "image": "https://loremflickr.com/650/650/pizza",
+      "description": "Grilled chicken, red onions, and tangy BBQ sauce make this pizza an irresistible treat.",
+      "price": 14.79,
+      "ingredients": ["Grilled Chicken", "Red Onions", "BBQ Sauce", "Mozzarella", "Pizza dough"]
+    },
+    {
+      "title": "Veggie Supreme",
+      "image": "https://loremflickr.com/650/650/pizza",
+      "description": "A vegetarian delight loaded with fresh veggies like mushrooms, bell peppers, onions, and olives.",
+      "price": 12.49,
+      "ingredients": ["Mushrooms", "Bell Peppers", "Onions", "Olives", "Mozzarella", "Tomato sauce", "Pizza dough"]
+    },
+    {
+      "title": "Meat Lover's Dream",
+      "image": "https://loremflickr.com/650/650/pizza",
+      "description": "For the meat enthusiasts, this pizza boasts a combination of pepperoni, sausage, bacon, and ham.",
+      "price": 16.59,
+      "ingredients": ["Pepperoni", "Sausage", "Bacon", "Ham", "Mozzarella", "Tomato sauce", "Pizza dough"]
+    },
+    {
+      "title": "Mediterranean Delight",
+      "image": "https://loremflickr.com/650/650/pizza",
+      "description": "Experience the flavors of the Mediterranean with feta cheese, olives, tomatoes, and pesto sauce.",
+      "price": 13.99,
+      "ingredients": ["Feta Cheese", "Olives", "Tomatoes", "Pesto Sauce", "Mozzarella", "Pizza dough"]
+    },
+    {
+      "title": "Four Cheese",
+      "image": "https://loremflickr.com/650/650/pizza",
+      "description": "Indulge in the richness of four cheeses - mozzarella, cheddar, gouda, and parmesan.",
+      "price": 14.29,
+      "ingredients": ["Mozzarella", "Cheddar", "Gouda", "Parmesan", "Tomato sauce", "Pizza dough"]
+    },
+    {
+      "title": "Spicy Diablo",
+      "image": "https://loremflickr.com/650/650/pizza",
+      "description": "A fiery pizza topped with spicy pepperoni, jalapenos, and red pepper flakes.",
+      "price": 12.79,
+      "ingredients": ["Spicy Pepperoni", "Jalapenos", "Mozzarella", "Red Pepper Flakes", "Tomato sauce", "Pizza dough"]
+    },
+    {
+      "title": "Chicken Alfredo",
+      "image": "https://loremflickr.com/650/650/pizza",
+      "description": "A creamy delight with grilled chicken, mushrooms, and Alfredo sauce.",
+      "price": 15.49,
+      "ingredients": ["Grilled Chicken", "Mushrooms", "Alfredo Sauce", "Mozzarella", "Pizza dough"]
+    },
+    {
+      "title": "Buffalo Chicken",
+      "image": "https://loremflickr.com/650/650/pizza",
+      "description": "For the spicy buffalo fans, this pizza combines buffalo chicken, blue cheese, and celery.",
+      "price": 13.99,
+      "ingredients": ["Buffalo Chicken", "Blue Cheese", "Celery", "Mozzarella", "Pizza dough"]
+    },
+    {
+      "title": "Pesto Garden",
+      "image": "https://loremflickr.com/650/650/pizza",
+      "description": "A garden-fresh pizza with pesto sauce, cherry tomatoes, spinach, and artichokes.",
+      "price": 12.99,
+      "ingredients": ["Pesto Sauce", "Cherry Tomatoes", "Spinach", "Artichokes", "Mozzarella", "Pizza dough"]
+    },
+    {
+      "title": "Taco Fiesta",
+      "image": "https://loremflickr.com/650/650/pizza",
+      "description": "Taste the fiesta with taco-seasoned ground beef, lettuce, tomatoes, and cheddar cheese.",
+      "price": 14.59,
+      "ingredients": ["Taco-seasoned Ground Beef", "Lettuce", "Tomatoes", "Cheddar Cheese", "Mozzarella", "Pizza dough"]
+    },
+    {
+      "title": "Mushroom Madness",
+      "image": "https://loremflickr.com/650/650/pizza",
+      "description": "Mushroom lovers rejoice! This pizza is packed with various mushrooms and truffle oil.",
+      "price": 13.29,
+      "ingredients": ["Assorted Mushrooms", "Truffle Oil", "Mozzarella"]
+    }
+  ],
+  "featuredProducts": [
+    {
+      "title": "Hawaiian Paradise",
+      "image": "https://loremflickr.com/650/950/1",
+      "description": "Escape to a tropical paradise with this pizza featuring ham, pineapple, and cheese.",
+      "price": 13.49,
+      "ingredients": ["Ham", "Pineapple", "Mozzarella", "Tomato sauce", "Pizza dough"]
+    },
+    {
+      "title": "Taco Fiesta",
+      "image": "https://loremflickr.com/650/950/2",
+      "description": "Taste the fiesta with taco-seasoned ground beef, lettuce, tomatoes, and cheddar cheese.",
+      "price": 14.59,
+      "ingredients": ["Taco-seasoned Ground Beef", "Lettuce", "Tomatoes", "Cheddar Cheese", "Mozzarella", "Pizza dough"]
+    },
+    {
+      "title": "Mushroom Madness",
+      "image": "https://loremflickr.com/650/950/3",
+      "description": "Mushroom lovers rejoice! This pizza is packed with various mushrooms and truffle oil.",
+      "price": 13.29,
+      "ingredients": ["Assorted Mushrooms", "Truffle Oil", "Mozzarella"]
+    }
+  ]
+}
