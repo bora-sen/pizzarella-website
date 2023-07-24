@@ -5,7 +5,6 @@ import { Featured, Hero, Pizzas } from "./Sections"
 function Home() {
   return (
     <MainContainer>
-      <Header />
       <Hero />
       <Featured />
       <Pizzas />

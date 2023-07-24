@@ -2,7 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
-*{
-
-    font-family: 'Open Sans', sans-serif;
+* {
+  font-family: "Open Sans", sans-serif;
+  color: white;
+}
+body {
+  @apply bg-black;
+}
+input {
+  color: black;
 }
