@@ -109,21 +109,21 @@
   "featuredProducts": [
     {
       "title": "Hawaiian Paradise",
-      "image": "https://loremflickr.com/650/950/1",
+      "image": "/assets/images/pizza-2.webp",
       "description": "Escape to a tropical paradise with this pizza featuring ham, pineapple, and cheese.",
       "price": 13.49,
       "ingredients": ["Ham", "Pineapple", "Mozzarella", "Tomato sauce", "Pizza dough"]
     },
     {
       "title": "Taco Fiesta",
-      "image": "https://loremflickr.com/650/950/2",
+      "image": "/assets/images/pizza-1.webp",
       "description": "Taste the fiesta with taco-seasoned ground beef, lettuce, tomatoes, and cheddar cheese.",
       "price": 14.59,
       "ingredients": ["Taco-seasoned Ground Beef", "Lettuce", "Tomatoes", "Cheddar Cheese", "Mozzarella", "Pizza dough"]
     },
     {
       "title": "Mushroom Madness",
-      "image": "https://loremflickr.com/650/950/3",
+      "image": "/assets/images/pizza-3.webp",
       "description": "Mushroom lovers rejoice! This pizza is packed with various mushrooms and truffle oil.",
       "price": 13.29,
       "ingredients": ["Assorted Mushrooms", "Truffle Oil", "Mozzarella"]
